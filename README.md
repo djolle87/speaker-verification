@@ -4,8 +4,8 @@ A speaker verification system using [SpeechBrain](https://speechbrain.readthedoc
 and [Qdrant](https://qdrant.tech) as a vector similarity search engine. This app includes a Gradio UI for enrolling and
 verifying speakers via audio input.
 
-![Screenshot 1](images/screenshot1.png)
-![Screenshot 2](images/screenshot2.png)
+![App Screenshot 1](https://github.com/user-attachments/assets/828b15f9-52fe-4f01-af24-821f347fd5c4)
+![App Screenshot 2](https://github.com/user-attachments/assets/1e64da4c-a02c-4f8b-b87d-8831f9e17247)
 
 ## Features
 
